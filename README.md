@@ -7,3 +7,4 @@ Solutions to Rosalind bioinformatics problems using Python.
 - Computing GC Content
 - Translating RNA into Protein
 - Rabbits and Recurrence Relations
+- Complementing a Strand of DNA
