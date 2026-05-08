@@ -1,0 +1,6 @@
+dna_seq = input("Enter DNA sequence:").upper()
+count_A = dna_seq.count('A')
+count_C = dna_seq.count('C')
+count_G = dna_seq.count('G')
+count_T = dna_seq.count('T')
+print(count_A, count_C, count_G, count_T)
